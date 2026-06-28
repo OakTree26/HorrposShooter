@@ -23,13 +23,13 @@ HorrposShooter is a classic FPS inspired by games like **DOOM**. Fight hostile e
 
 ## Preview
 
-![image alt](https://github.com/OakTree26/HorrposShooter/blob/main/1.png?raw=true)
+![image alt](https://github.com/OakTree26/HorrposShooter/blob/main/screenshots/1.png?raw=true)
 
-![image alt](https://github.com/OakTree26/HorrposShooter/blob/main/2.png?raw=true)
+![image alt](https://github.com/OakTree26/HorrposShooter/blob/main/screenshots/2.png?raw=true)
 
-![image alt](https://github.com/OakTree26/HorrposShooter/blob/main/3.png?raw=true)
+![image alt](https://github.com/OakTree26/HorrposShooter/blob/main/screenshots/3.png?raw=true)
 
-![image alt](https://github.com/OakTree26/HorrposShooter/blob/main/4.png?raw=true)
+![image alt](https://github.com/OakTree26/HorrposShooter/blob/main/screenshots/4.png?raw=true)
 
 ---
 
