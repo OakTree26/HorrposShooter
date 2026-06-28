@@ -1,2 +1,2 @@
-**~*HORRPOSSHOOTER*~**
+***HORRPOSSHOOTER***
 A retro-inspired
