@@ -6,7 +6,7 @@ HorrposShooter is a classic FPS inspired by games like **DOOM**. Fight hostile e
 
 ---
 
-##Features
+## Features
 
 *  Classic DOOM-style raycasting engine
 *  Animated shotgun with shooting and reloading
@@ -19,6 +19,11 @@ HorrposShooter is a classic FPS inspired by games like **DOOM**. Fight hostile e
 *  Game Over screen
 *  Custom maps and textures
 
+---
+
+## Preview
+
+![image alt](https://github.com/OakTree26/HorrposShooter/blob/main/1.png?raw=true)
 ---
 
 ## Controls
